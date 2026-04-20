@@ -1,8 +1,0 @@
-{
-  "requestFramePermissions": [
-    "camera"
-  ],
-  "name": "Is This Eligible? - Bike Benefit Assistant",
-  "description": "AI-powered eligibility checker for bike commuter benefits.",
-  "majorCapabilities": []
-}
